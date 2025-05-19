@@ -2,6 +2,7 @@
 Olá! Neste portfólio apresento projetos desenvolvidos com Power BI, Python e análise de dados, usando dados públicos e cenários realistas para gerar insights e auxiliar na tomada de decisões com base em dados.
 
 📊 Projeto 1: 
+
 🔗 Link do Dashboard:
 📁 Dataset:
 📌 Ferramentas utilizadas: Power BI Desktop, Power Query, DAX
